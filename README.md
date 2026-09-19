@@ -1,1 +1,2 @@
 # html-practice
+<!DOCTYPE html>
